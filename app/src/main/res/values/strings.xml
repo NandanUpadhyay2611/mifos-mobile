@@ -133,7 +133,7 @@
     <string name="guarantor_details">Guarantor Details</string>
     <string name="joined_date">Joined Date</string>
     <string name="submit">Submit</string>
-    <string name="select_product_id">Select Product Id*</string>
+    <string name="select_product_id">Select Product Id</string>
     <string name="account_id">Account Id</string>
     <string name="new_saving_account_application">New Saving Account Application</string>
     <string name="update_savings_account">Update Savings Account</string>
@@ -153,6 +153,7 @@
     <string name="no">No</string>
     <string name="found">found</string>x
 
+    <string name="password_key" translatable="false">Password</string>
     <string name="change_passcode">Change Passcode</string>
     <string name="change_app_passcode">Change App Passcode</string>
     <string name="change_password">Change Password</string>
@@ -236,6 +237,7 @@
     <string name="error_reading_qr"> Error while reading QR, make sure you select proper region
     </string>
     <string name="error_fetching_image">Error fetching image </string>
+    <string name="invalid_phn_number">Invalid Phone Number</string>
     <string name="fetching_client">Fetching Client</string>
 
     <string name="not_contain_username">Spaces</string>
@@ -346,6 +348,9 @@
     <string name="total_loan">Total Loan</string>
     <string name="total_saving">Total Savings</string>
     <string name="accounts_overview">Account Overview</string>
+    <string name="show_hide_total_saving_amount">Show or hide the total saving amount</string>
+    <string name="show_hide_total_loan_amount">Show or hide the total loan amount</string>
+    <string name="hidden_amount">*****</string>
     <string name="survey">Surveys</string>
     <string name="activation_date">Activation Date</string>
     <string name="groups">Groups</string>
@@ -409,7 +414,7 @@
     <string name="dialog_action_cancel">Cancel</string>
     <string name="dialog_action_back">Back</string>
     <string name="dialog_permission_denied">Permission Denied</string>
-    <string name="dialog_action_i_am_sure">I\'M Sure</string>
+    <string name="dialog_action_i_am_sure">I\'m Sure</string>
     <string name="dialog_action_re_try">Retry</string>
     <string name="dialog_action_app_settings">App Settings</string>
     <string name="dialog_message_camera_permission_denied_prompt">Without camera permission you will
